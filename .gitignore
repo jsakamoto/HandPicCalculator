@@ -1,0 +1,10 @@
+*.suo
+Debug/
+ipch/
+packages/
+*.opensdf
+*.sdf
+*.VC.opendb
+*.VC.db
+/HandPicCalculator/Debug
+
