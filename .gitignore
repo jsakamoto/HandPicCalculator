@@ -8,3 +8,10 @@ packages/
 *.VC.db
 /HandPicCalculator/Debug
 
+/HandPicCalculator/clip0.png
+/HandPicCalculator/clip1.png
+/HandPicCalculator/clip2.png
+/HandPicCalculator/image_contours.png
+/HandPicCalculator/image_gray.png
+/HandPicCalculator/image_original.png
+/HandPicCalculator/image_threshold.png
